@@ -40,3 +40,5 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/010jP7XDAsy025d10jMmFY/DevLinks-%E2%80%A2-Projeto-Discover-Community?type=design&is-community-duplicate=1&fuid=). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
